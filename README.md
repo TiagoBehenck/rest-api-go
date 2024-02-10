@@ -122,3 +122,5 @@ To create a new container using the image of postgres, follow the command:
    ```
 
 If all steps were successful, your API with the database connection should be working correctly :)
+
+This API was developed following the steps in this video https://www.youtube.com/watch?v=MD7b-iQMC24
